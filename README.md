@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I hate loud sounds, but I'm a soprano!
 
-TECHNOLOGIES I USE:
+<h2>TECHNOLOGIES I USE:</h2>
 <p align="center">
   <img src="html5-logo-vector.svg" width="100" height="100" alt="matrix.gif">
   <img src="css3-logo-vector.svg" width="100" height="100" alt="matrix.gif">
