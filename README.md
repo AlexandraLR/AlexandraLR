@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I hate loud sounds, but I'm a soprano!
 
 <h2>TECHNOLOGIES I USE:</h2>
-<p align="center">
+<p align="spacebetween">
   <img src="html5-logo-vector.svg" width="100" height="100" alt="matrix.gif">
   <img src="css3-logo-vector.svg" width="100" height="100" alt="matrix.gif">
   <img src="javascript-logo-vector.svg" width="100" height="100" alt="matrix.gif">
