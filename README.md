@@ -4,19 +4,20 @@
 <img width="30%" align="right" alt="Github" src="matrix-transparent (1).gif" />
   <div>
   <ul>
-<li> 📚 Languages I speak: Spanish (native), english (Advanced) and Valencian (b2)</li> 
-<li> 🏢 Where I live: Madrid, Spain </li>
-<li> 🌍 Where I'm from: Alicante, Spain </li>
+<li> 📚 Languages I speak: Spanish (native), english (Advanced) and Valencian (B2).</li> 
+<li> 🏢 Where I live: Madrid, Spain. </li>
+<li> 🌍 Where I'm from: Alicante, Spain. </li>
 <li> 🎬 Where are my hobbies: singing, writing and watching series! </li>
 <li> 💬 Ask me about music, art or programming! Specially programming! </li>
-<li> 😄 Pronouns: she/her </li>
+<li> 😄 Pronouns: she/her. </li>
 <li> ⚡ Fun fact: I hate loud sounds, but I'm a soprano! </li>
   </ul>
     </div>
   
 
 ## Technologies I use:
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
