@@ -9,11 +9,11 @@
 
 TECHNOLOGIES I USE:
 <p align="center">
-  <img src="html5-logo-vector.svg" width="100" alt="matrix.gif">
-  <img src="css3-logo-vector.svg" width="100" alt="matrix.gif">
-  <img src="javascript-logo-vector.svg" width="100" alt="matrix.gif">
-  <img src="react-logo-vector-1.svg" width="100" alt="matrix.gif">
-  <img src="nodejs-icon-logo-vector.svg" width="100" alt="matrix.gif">
+  <img src="html5-logo-vector.svg" width="100" height="100" alt="matrix.gif">
+  <img src="css3-logo-vector.svg" width="100" height="100" alt="matrix.gif">
+  <img src="javascript-logo-vector.svg" width="100" height="100" alt="matrix.gif">
+  <img src="react-logo-vector-1.svg" width="100" height="100" alt="matrix.gif">
+  <img src="nodejs-icon-logo-vector.svg" width="100" height="100" alt="matrix.gif">
 </p>
 
 <p align="center">
