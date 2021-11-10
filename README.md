@@ -33,6 +33,6 @@
 
 
 <h2>How to contact me!</h2> 
- [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thezarigueya)](https://twitter.com/thezarigueya)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thezarigueya)](https://twitter.com/thezarigueya)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandralillorios/)](https://www.linkedin.com/in/alexandralillorios/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alexandralillor@gmail.com)](mailto:alexandralillor@gmail.com)
