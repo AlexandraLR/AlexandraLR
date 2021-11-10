@@ -1,6 +1,7 @@
+<img width="20%" align="right" alt="Github" src="matrix-transparent.gif" />
+
 ### Hi there 👋 I'm Alexandra Lillo! 
 
-<div align="spacebetween">
   <div>
   <ul>
 <li> 🔭 I’m currently working on HTML, CSS, JAVASCRIPT, REACTJS and NODE.JS! </li>
@@ -11,10 +12,6 @@
 <li> ⚡ Fun fact: I hate loud sounds, but I'm a soprano! </li>
   </ul>
     </div>
-  <div>
-  <img src="matrix-transparent.gif" width="350" alt="matrix.gif">
-</div>
-  </div>
   
 
 <h2>TECHNOLOGIES I USE:</h2>
