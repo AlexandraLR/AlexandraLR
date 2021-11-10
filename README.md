@@ -4,10 +4,12 @@
 <img width="30%" align="right" alt="Github" src="matrix-transparent (1).gif" />
   <div>
   <ul>
-<li> 🔭 I’m currently working on HTML, CSS, JAVASCRIPT, REACTJS and NODE.JS! </li>
-<li> 🌱 I’m currently learning how to relax when I'm stressed! </li>
+<li> 📚 Languages I speak: Spanish (native), english (Advanced) and Valencian (b2)</li> 
+<li> 🏢 Where I live: Madrid, Spain </li>
+<li> 🌍 Where I'm from: Alicante, Spain </li>
+<li> 🎬 Where are my hobbies: singing, writing and watching series! </li>
 <li> 💬 Ask me about music, art or programming! Specially programming! </li>
-<li> 😄 Pronouns: she/her. </li>
+<li> 😄 Pronouns: she/her </li>
 <li> ⚡ Fun fact: I hate loud sounds, but I'm a soprano! </li>
   </ul>
     </div>
