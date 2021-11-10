@@ -1,6 +1,7 @@
-<img width="30%" align="right" alt="Github" src="matrix-transparent (1).gif" />
+
 
 ## Hi there 👋 I'm Alexandra Lillo! </h1>
+<img width="30%" align="right" alt="Github" src="matrix-transparent (1).gif" />
   <div>
   <ul>
 <li> 🔭 I’m currently working on HTML, CSS, JAVASCRIPT, REACTJS and NODE.JS! </li>
