@@ -1,4 +1,4 @@
-<img width="20%" align="right" alt="Github" src="matrix-transparent.gif" />
+<img width="50%" align="right" alt="Github" src="matrix-transparent.gif" />
 
 ### Hi there 👋 I'm Alexandra Lillo! 
 
