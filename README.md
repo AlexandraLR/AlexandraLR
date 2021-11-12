@@ -7,7 +7,7 @@
 <li> 📚 Languages I speak: Spanish (native), english (Advanced) and Valencian (B2).</li> 
 <li> 🏢 Where I live: Madrid, Spain. </li>
 <li> 🌍 Where I'm from: Alicante, Spain. </li>
-<li> 🎬 Where are my hobbies: singing, writing and watching series! </li>
+<li> 🎬 Which are my hobbies: singing, writing and watching series! </li>
 <li> 💬 Ask me about music, art or programming! Specially programming! </li>
 <li> 😄 Pronouns: she/her. </li>
 <li> ⚡ Fun fact: I hate loud sounds, but I'm a soprano! </li>
