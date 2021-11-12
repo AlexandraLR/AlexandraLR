@@ -4,7 +4,7 @@
 <img width="30%" align="right" alt="Github" src="matrix-transparent (1).gif" />
   <div>
   <ul>
-<li> 📚 Languages I speak: Spanish (native), english (Advanced) and Valencian (B2).</li> 
+<li> 📚 Languages I speak: Spanish (native), english (advanced) and Valencian (B2).</li> 
 <li> 🏢 Where I live: Madrid, Spain. </li>
 <li> 🌍 Where I'm from: Alicante, Spain. </li>
 <li> 🎬 Which are my hobbies: singing, writing and watching series! </li>
